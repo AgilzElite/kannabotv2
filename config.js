@@ -44,10 +44,10 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // Wajib diisi ya kak!, kalo ga punya biarin aja, biar ada creditsnya :v
-global.sig = 'https://www.instagram.com/kontol_elite'
-global.sgh = 'https://github.com/Jikarinka'
-global.sgc = 'https://chat.whatsapp.com/FF1Bd1U0FHu42rfz6uplbn'
-global.sdc = " "
+global.sig = 'https://www.instagram.com/agilz1120'
+global.sgh = 'https://github.com/AgilzElite'
+global.sgc = '-'
+global.sdc = "-"
 global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
@@ -56,10 +56,10 @@ global.povo = '085857537269'
 global.pgopay = '085857537269'
 global.ppulsa = '085857537269'
 global.ppulsa2 = '085857537269'
-global.psaweria = 'https://trakteer.id/ayo-dukung-bot/tip'
+global.psaweria = 'https://Lets-To-Web-Gilzz.agilganzz1.repl.co'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285857537269'
+global.nomorbot = '62895321693174'
 global.nomorown = '6285857537269'
 global.namebot = 'Gilzz BOT'
 global.nameown = 'Gilzz'
@@ -69,8 +69,8 @@ global.nameown = 'Gilzz'
 global.owner = [
   ['6285857537269'],
   ['6282180426880'],
-  ['085857537269'],
-  ['+6282180426880', 'ᴠᴀɴᴇꜱꜱᴀ-ᴅᴇꜱᴜ', true]
+  ['6281268568898'],
+  ['+6285857537269', 'Gilzz', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -115,9 +115,9 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 Ƙαnnα BOT あ⁩ 」' //Main Watermark
+global.wm = '                「 Gilzz BOT あ⁩ 」' //Main Watermark
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Ƙαnnα - chαn˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ Ƙαnnα 𝗕𝗢𝗧'
+global.wm3 = '⫹⫺ Gilzz 𝗕𝗢𝗧'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = '🌱 ┊ 𝗥𝗣𝗚 Whatsapp ʙᴏᴛ'
